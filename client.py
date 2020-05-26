@@ -1,6 +1,7 @@
 import socket
 import threading
 
+print ("Hello world")
 DATA_BUFFER = 8
 PORT = 1234
 IP_ADDRESS = "192.168.1.113"
